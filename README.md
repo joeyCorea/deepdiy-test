@@ -1,3 +1,5 @@
+**In the collab notebook, you will need to change the hard-coded paths in cell 6 setting `test_record_fname` etc to point to the ame of your repo. In this case from `object-detection-demo` to `deepdiy-test`**
+
 # [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
 
 
